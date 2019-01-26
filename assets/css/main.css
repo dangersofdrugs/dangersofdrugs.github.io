@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
-
+@import "https://fonts.googleapis.com/css?family=Tangerine";
 /*
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn
@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: Tangerine, inherit;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
